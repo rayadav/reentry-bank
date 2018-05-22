@@ -1,2 +1,3 @@
 # reentry-bank
-Financial services for returning citizens.
+
+An online Reentry Bank providing access to financial services for Returning Citizens.
